@@ -17,11 +17,11 @@
 [[reference](https://github.com/samet-akcay/ganomaly.git)]
 
 ## results
-![0-0](experiments\skip_GANomaly_test\0-0.png)
-![0-0](experiments\skip_GANomaly_test\0-2.png)
-![0-0](experiments\skip_GANomaly_test\69-0.png)
-![0-0](experiments\skip_GANomaly_test\69-2.png)
-![0-0](experiments\skip_GANomaly_test\ROC.png)
+![0-0](.\experiments\skip_GANomaly_test\0-0.png)
+![0-0](.\experiments\skip_GANomaly_test\0-2.png)
+![0-0](.\experiments\skip_GANomaly_test\69-0.png)
+![0-0](.\experiments\skip_GANomaly_test\69-2.png)
+![0-0](.\experiments\skip_GANomaly_test\ROC.png)
 
 - auc:  0.9423558897243107
 - best_accuracy:  0.9358974358974359
